@@ -26,9 +26,14 @@ Then install the npm packages using the following command.
 npm install
 ~~~~
 
+Create a database using workbench or any other mysql database management tool.
+
 Once all the packages are install you should update the app-config.ts file with the details for your MySQL server.
 
+
+
 ~~~~
+username: "root",
 password: "Demo1234",
 database: "todo_testing",
 ~~~~
