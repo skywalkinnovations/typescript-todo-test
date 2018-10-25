@@ -6,11 +6,12 @@ The project is built with Node, Express and Typescript.
 
 ## Prerequisites
 
-* Node: 8+
-* NPM: 6+
-* MySQL: 5.6+
-* Typescript: 3+
-* Git
+* Node: 8+ - [NodeJS](https://nodejs.org/en/)
+* NPM: 6+ - [NodeJS](https://nodejs.org/en/)
+* MySQL: 5.6+ - [MySQL](https://www.mysql.com/)
+* Workbench - [Workbench](https://www.mysql.com/products/workbench/)
+* Typescript: 3+ - [TypeScript](https://www.typescriptlang.org/)
+* Git - [Git](https://git-scm.com/)
 
 ## Installation
 
