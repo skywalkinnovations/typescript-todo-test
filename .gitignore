@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+node_modules/
+temp/
+dist/
+.nyc_output/
+coverage/
