@@ -4,6 +4,7 @@
   "description": "Simple ToDo project for testing questionnaire",
   "main": "app.js",
   "scripts": {
+    "start": "./dist/application/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Xavier Lawrence",
